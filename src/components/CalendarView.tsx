@@ -41,8 +41,44 @@ export const CalendarView: React.FC<CalendarViewProps> = ({ events, activeType }
 
 
 
+    // Swipe handlers
+    const [touchStart, setTouchStart] = useState<number | null>(null);
+    const [touchEnd, setTouchEnd] = useState<number | null>(null);
+
+    // Minimum swipe distance (in px)
+    const minSwipeDistance = 50;
+
+    const onTouchStart = (e: React.TouchEvent) => {
+        setTouchEnd(null); // Reset
+        setTouchStart(e.targetTouches[0].clientX);
+    };
+
+    const onTouchMove = (e: React.TouchEvent) => {
+        setTouchEnd(e.targetTouches[0].clientX);
+    };
+
+    const onTouchEnd = () => {
+        if (!touchStart || !touchEnd) return;
+
+        const distance = touchStart - touchEnd;
+        const isLeftSwipe = distance > minSwipeDistance;
+        const isRightSwipe = distance < -minSwipeDistance;
+
+        if (isLeftSwipe) {
+            nextMonth(); // Swipe Left -> Next Month
+        }
+        if (isRightSwipe) {
+            prevMonth(); // Swipe Right -> Prev Month
+        }
+    };
+
     return (
-        <div className="flex flex-col h-full bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
+        <div
+            className="flex flex-col h-full bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden touch-pan-y"
+            onTouchStart={onTouchStart}
+            onTouchMove={onTouchMove}
+            onTouchEnd={onTouchEnd}
+        >
             {/* Calendar Header */}
             <div className="flex items-center justify-between px-6 py-4 border-b border-gray-100">
                 <h2 className="text-xl font-bold text-gray-800">
