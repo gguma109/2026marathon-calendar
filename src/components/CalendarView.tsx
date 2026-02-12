@@ -41,40 +41,40 @@ export const CalendarView: React.FC<CalendarViewProps> = ({ events, activeType }
 
 
 
-    // Swipe handlers
-    const [touchStart, setTouchStart] = useState<number | null>(null);
-    const [touchEnd, setTouchEnd] = useState<number | null>(null);
+    // Swipe handlers using refs to avoid re-renders during touchmove
+    const touchCmd = React.useRef({ startX: 0, endX: 0 });
 
     // Minimum swipe distance (in px)
     const minSwipeDistance = 50;
 
     const onTouchStart = (e: React.TouchEvent) => {
-        setTouchEnd(null); // Reset
-        setTouchStart(e.targetTouches[0].clientX);
+        touchCmd.current.endX = 0;
+        touchCmd.current.startX = e.targetTouches[0].clientX;
     };
 
     const onTouchMove = (e: React.TouchEvent) => {
-        setTouchEnd(e.targetTouches[0].clientX);
+        touchCmd.current.endX = e.targetTouches[0].clientX;
     };
 
     const onTouchEnd = () => {
-        if (!touchStart || !touchEnd) return;
+        if (!touchCmd.current.startX || !touchCmd.current.endX) return;
 
-        const distance = touchStart - touchEnd;
+        const distance = touchCmd.current.startX - touchCmd.current.endX;
         const isLeftSwipe = distance > minSwipeDistance;
         const isRightSwipe = distance < -minSwipeDistance;
 
         if (isLeftSwipe) {
-            nextMonth(); // Swipe Left -> Next Month
+            nextMonth();
         }
         if (isRightSwipe) {
-            prevMonth(); // Swipe Right -> Prev Month
+            prevMonth();
         }
     };
 
     return (
         <div
-            className="flex flex-col h-full bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden touch-pan-y"
+            className="flex flex-col h-full bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden"
+            style={{ touchAction: 'pan-y' }}
             onTouchStart={onTouchStart}
             onTouchMove={onTouchMove}
             onTouchEnd={onTouchEnd}
