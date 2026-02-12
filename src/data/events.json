@@ -359,19 +359,6 @@
         "status": "UPCOMING"
     },
     {
-        "id": "jeju-intl-marathon-2026",
-        "name": "제주국제마라톤",
-        "date": "2026-05-17",
-        "type": "ROAD",
-        "location": "제주 (종합경기장)",
-        "distances": [
-            "Full",
-            "Half",
-            "10k"
-        ],
-        "status": "UPCOMING"
-    },
-    {
         "id": "geoje-100k-2026",
         "name": "거제 100K",
         "date": "2026-05-30",
