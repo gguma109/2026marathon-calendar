@@ -1,0 +1,1120 @@
+[
+    {
+        "id": "daegu-marathon-2026",
+        "name": "대구국제마라톤",
+        "date": "2026-02-22",
+        "type": "ROAD",
+        "location": "대구 (대구스타디움)",
+        "distances": [
+            "Full",
+            "10k",
+            "5k"
+        ],
+        "url": "https://daegurace.com",
+        "description": "국내 최대 규모의 마라톤 대회, 2026년 2월 22일 개최 예정. 선착순 마감.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "miryang-arirang-marathon-2026",
+        "name": "밀양아리랑마라톤",
+        "date": "2026-02-22",
+        "type": "ROAD",
+        "location": "밀양",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gyeonggi-intl-half-marathon-2026",
+        "name": "경기국제하프마라톤",
+        "date": "2026-02-22",
+        "type": "ROAD",
+        "location": "경기",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "geumsan-insam-marathon-2026",
+        "name": "금산인삼마라톤",
+        "date": "2026-03-14",
+        "type": "ROAD",
+        "location": "충남 금산",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-marathon-2026",
+        "name": "서울마라톤 (동아마라톤)",
+        "date": "2026-03-15",
+        "type": "ROAD",
+        "location": "서울 (광화문 ~ 잠실)",
+        "distances": [
+            "Full",
+            "10k"
+        ],
+        "url": "https://seoul-marathon.com",
+        "description": "제96회 동아마라톤. 국내 유일 IAAF 플래티넘 라벨 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "namhae-trail-2026",
+        "name": "남해트레일레이스 (락앤런)",
+        "date": "2026-03-21",
+        "type": "TRAIL",
+        "location": "남해",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jirisan-spring-flower-2026",
+        "name": "지리산 봄꽃레이스",
+        "date": "2026-03-21",
+        "type": "TRAIL",
+        "location": "전남 구례/지리산",
+        "distances": [
+            "24k",
+            "13k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "incheon-intl-half-marathon-2026",
+        "name": "인천국제하프마라톤",
+        "date": "2026-03-22",
+        "type": "ROAD",
+        "location": "인천 (문학경기장)",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-k-marathon-2026",
+        "name": "2026 서울 K-마라톤",
+        "date": "2026-03-22",
+        "type": "ROAD",
+        "location": "서울 (광화문광장)",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "ytn-heat-run-2026",
+        "name": "YTN HEAT & RUN (서울투어마라톤)",
+        "date": "2026-03-22",
+        "type": "ROAD",
+        "location": "서울 (상암 월드컵공원)",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "description": "YTN 주최, 서울의 봄을 알리는 마라톤.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "yeosu-azalea-trail-2026",
+        "name": "여수 진달래트레일레이스",
+        "date": "2026-03-28",
+        "type": "TRAIL",
+        "location": "여수",
+        "distances": [
+            "Unknown"
+        ],
+        "url": "http://www.rocknrun.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jangsu-trail-spring-2026",
+        "name": "제7회 장수트레일레이스 (Spring)",
+        "date": "2026-04-03",
+        "type": "TRAIL",
+        "location": "전북 장수",
+        "distances": [
+            "Multi-day"
+        ],
+        "description": "노스페이스와 함께하는 장수 트레일 레이스 봄 시즌.",
+        "url": "http://www.rocknrun.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gyeongju-cherry-marathon-2026",
+        "name": "경주벚꽃마라톤",
+        "date": "2026-04-04",
+        "type": "ROAD",
+        "location": "경주",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "description": "벚꽃 만개한 고도 경주를 달리는 아름다운 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeju-intl-trail-stage100-2026",
+        "name": "제주국제트레일러닝대회 Stage100",
+        "date": "2026-04-10",
+        "type": "TRAIL",
+        "location": "제주",
+        "distances": [
+            "100k Stage"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-trailrun-2026",
+        "name": "Seoul Trailrun",
+        "date": "2026-04-17",
+        "type": "TRAIL",
+        "location": "서울 (중구)",
+        "distances": [
+            "106k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "konol-trail-run-2026",
+        "name": "KONOL TRAIL RUN",
+        "date": "2026-04-18",
+        "type": "TRAIL",
+        "location": "Unknown",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "mudeungsan-trail-2026",
+        "name": "무등산 국제 트레일런",
+        "date": "2026-04-19",
+        "type": "TRAIL",
+        "location": "광주 무등산",
+        "distances": [
+            "51.8k",
+            "33k",
+            "15k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "korea-50k-2026",
+        "name": "KOREA 50K",
+        "date": "2026-04-25",
+        "type": "TRAIL",
+        "location": "동두천",
+        "distances": [
+            "50k",
+            "22k",
+            "10k"
+        ],
+        "url": "http://korea50k.com",
+        "description": "한국을 대표하는 국제 트레일러닝 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "blackyak-jeju-2026",
+        "name": "블랙야크 트레일런 제주",
+        "date": "2026-04-25",
+        "type": "TRAIL",
+        "location": "제주",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-half-marathon-2026",
+        "name": "서울하프마라톤",
+        "date": "2026-04-26",
+        "type": "ROAD",
+        "location": "서울 (광화문 ~ 상암)",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "description": "서울 도심을 가로지르는 인기 하프 마라톤.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "hongcheon-trail-2026",
+        "name": "홍천트레일러닝대회",
+        "date": "2026-04-26",
+        "type": "TRAIL",
+        "location": "강원 홍천",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "songnisan-trail-2026",
+        "name": "속리산 문장대 세조길 트레일러닝",
+        "date": "2026-04-26",
+        "type": "TRAIL",
+        "location": "속리산",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jangsu-trail-tour-2026",
+        "name": "장수트레일투어 STAGE100K",
+        "date": "2026-05-01",
+        "type": "TRAIL",
+        "location": "전북 장수",
+        "distances": [
+            "100k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "bulsusadobuk-climbathon-2026",
+        "name": "불수사도북 5개산종주 CLIMBATHON",
+        "date": "2026-05-03",
+        "type": "TRAIL",
+        "location": "서울 강북 5개산",
+        "distances": [
+            "종주"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "busan-50k-2026",
+        "name": "부산 50K",
+        "date": "2026-05-09",
+        "type": "TRAIL",
+        "location": "부산",
+        "distances": [
+            "50k",
+            "37k",
+            "24k",
+            "12k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "donghae-skyrace-2026",
+        "name": "동해 스카이레이스",
+        "date": "2026-05-09",
+        "type": "TRAIL",
+        "location": "강원 동해",
+        "distances": [
+            "Sky Race"
+        ],
+        "description": "굿러너 주최의 스카이 레이스.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "muuido-trail-2026",
+        "name": "무의도 구석구석 트레일런",
+        "date": "2026-05-10",
+        "type": "TRAIL",
+        "location": "인천 무의도",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "tnf-100-gangwon-2026",
+        "name": "TNF 100 Gangwon",
+        "date": "2026-05-16",
+        "type": "TRAIL",
+        "location": "강원",
+        "distances": [
+            "100k",
+            "50k",
+            "10k"
+        ],
+        "description": "노스페이스 100 코리아, 강원도에서 펼쳐지는 레이스.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "oxfam-trailwalker-2026",
+        "name": "2026 옥스팜 트레일워커",
+        "date": "2026-05-16",
+        "type": "TRAIL",
+        "location": "강원 인제",
+        "distances": [
+            "100k (Team)"
+        ],
+        "description": "4인 1조 100km 완주 기부 프로젝트.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeju-intl-marathon-2026",
+        "name": "제주국제마라톤",
+        "date": "2026-05-17",
+        "type": "ROAD",
+        "location": "제주 (종합경기장)",
+        "distances": [
+            "Full",
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "geoje-100k-2026",
+        "name": "거제 100K",
+        "date": "2026-05-30",
+        "type": "TRAIL",
+        "location": "경남 거제",
+        "distances": [
+            "100k",
+            "50k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "samsam-trail-2026",
+        "name": "삼삼트레일런",
+        "date": "2026-05-30",
+        "type": "TRAIL",
+        "location": "Unknown",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "namhansanseong-trail-2026",
+        "name": "제9회 남한산성 트레일러닝",
+        "date": "2026-06-06",
+        "type": "TRAIL",
+        "location": "서울 마천역/남한산성",
+        "distances": [
+            "15k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeju-oreum-trail-2026",
+        "name": "제주오름트레일 (Golden Trail Series)",
+        "date": "2026-06-13",
+        "type": "TRAIL",
+        "location": "제주",
+        "distances": [
+            "30k",
+            "10k"
+        ],
+        "description": "살로몬 골든 트레일 시리즈 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "untangodo-skyrace-2026",
+        "name": "운탄고도 스카이레이스",
+        "date": "2026-06-13",
+        "type": "TRAIL",
+        "location": "강원 정선 (하이원리조트)",
+        "distances": [
+            "Sky Race",
+            "Vertical"
+        ],
+        "description": "구름 위를 달리는 하늘길 운탄고도.",
+        "url": "https://www.goodrunner.co.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "korea-50k-cc-chuncheon-2026",
+        "name": "KOREA 50K CC 춘천",
+        "date": "2026-06-28",
+        "type": "TRAIL",
+        "location": "강원 춘천",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "inwangsan-trail-july-2026",
+        "name": "제8회 인왕산 서울트레일런대회",
+        "date": "2026-07-05",
+        "type": "TRAIL",
+        "location": "서울 (연세대 정문)",
+        "distances": [
+            "11k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "ulleungdo-trail-2026",
+        "name": "울릉도 트레일 (Uiit)",
+        "date": "2026-07-12",
+        "type": "TRAIL",
+        "location": "울릉도",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gyeyangsan-backyard-2026",
+        "name": "울트라트레일 계양산 백야드",
+        "date": "2026-07-25",
+        "type": "TRAIL",
+        "location": "인천 계양산",
+        "distances": [
+            "Backyard Ultra"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "cool-valley-trail-2026",
+        "name": "제3회 쿨밸리 트레일레이스",
+        "date": "2026-08-01",
+        "type": "TRAIL",
+        "location": "Unknown",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "daegwallyeong-trail-2026",
+        "name": "대관령 트레일런",
+        "date": "2026-08-22",
+        "type": "TRAIL",
+        "location": "강원 대관령",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "geumsusan-marathon-2026",
+        "name": "금수산 전국산악마라톤",
+        "date": "2026-08-23",
+        "type": "TRAIL",
+        "location": "제천 금수산",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "taebaek-trail-2026",
+        "name": "다이나핏 태백트레일",
+        "date": "2026-09-05",
+        "type": "TRAIL",
+        "location": "강원 태백",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jirisan-ridge-2026",
+        "name": "지리산 릿지 레이스",
+        "date": "2026-09-05",
+        "type": "TRAIL",
+        "location": "지리산",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gyeongpo-aribau-trail-2026",
+        "name": "경포트레일런 ON 아리바우",
+        "date": "2026-09-05",
+        "type": "TRAIL",
+        "location": "강릉 경포",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "chiaksan-trail-2026",
+        "name": "치악산 트레일러닝",
+        "date": "2026-09-12",
+        "type": "TRAIL",
+        "location": "원주 치악산",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gumi-eco-trail-2026",
+        "name": "구미 에코 트레일레이스",
+        "date": "2026-09-12",
+        "type": "TRAIL",
+        "location": "구미",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "yeongdeok-blu-road-2026",
+        "name": "영덕 블루로드 코리아둘레길",
+        "date": "2026-09-12",
+        "type": "TRAIL",
+        "location": "경북 영덕",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "red-food-race-2026",
+        "name": "제2회 레드푸드 레이스",
+        "date": "2026-09-12",
+        "type": "TRAIL",
+        "location": "전북 장수",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jangsu-trail-race-2026",
+        "name": "제8회 장수트레일레이스",
+        "date": "2026-09-18",
+        "type": "TRAIL",
+        "location": "전북 장수",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-100k-2026",
+        "name": "Seoul 100K",
+        "date": "2026-09-19",
+        "type": "TRAIL",
+        "location": "서울",
+        "distances": [
+            "100k",
+            "50k"
+        ],
+        "description": "서울 도심과 산을 연결하는 국제 트레일러닝 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "aengbongsan-trail-2026",
+        "name": "제25회 앵봉산 봉산 서울트레일러닝",
+        "date": "2026-10-03",
+        "type": "TRAIL",
+        "location": "서울 구파발/앵봉산",
+        "distances": [
+            "Unknown"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "trans-jeju-2026",
+        "name": "Trans Jeju 2026 (by UTMB)",
+        "date": "2026-10-10",
+        "type": "TRAIL",
+        "location": "제주",
+        "distances": [
+            "100k",
+            "50k",
+            "20k"
+        ],
+        "url": "https://transjeju.com",
+        "description": "국내 최대 규모의 UTMB 월드 시리즈 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gtws-grand-final-2026",
+        "name": "GTWS Grand Final 2026",
+        "date": "2026-10-17",
+        "type": "TRAIL",
+        "location": "무주 덕유산",
+        "distances": [
+            "Elite Only"
+        ],
+        "description": "한국 최초 개최! Golden Trail World Series 그랜드 파이널.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gyeongju-marathon-2026",
+        "name": "경주마라톤 (가을)",
+        "date": "2026-10-17",
+        "type": "ROAD",
+        "location": "경주",
+        "distances": [
+            "Full",
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "chuncheon-marathon-2026",
+        "name": "춘천마라톤",
+        "date": "2026-10-25",
+        "type": "ROAD",
+        "location": "춘천",
+        "distances": [
+            "Full",
+            "Half",
+            "10k"
+        ],
+        "url": "https://chuncheonmarathon.com",
+        "description": "가을의 전설. 의암호반을 달리는 최고의 코스.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "siutra-2026",
+        "name": "Séoul International Ultra Trail",
+        "date": "2026-10-15",
+        "type": "TRAIL",
+        "location": "서울",
+        "distances": [
+            "100k",
+            "50k"
+        ],
+        "description": "2026년 10월 중순 예정인 국제 울트라 트레일.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeonmahyup-jeju-10k-2026",
+        "name": "2026 전마협 제주 10km 마라톤",
+        "date": "2026-01-25",
+        "type": "ROAD",
+        "location": "제주 서귀포",
+        "distances": [
+            "10k"
+        ],
+        "description": "전국마라톤협회 주최. 서귀포 에이스 주유소 앞 출발.",
+        "url": "http://www.run1080.com",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeonmahyup-cheongju-2026",
+        "name": "2026 전마협 청주 무심천 투데이 마라톤",
+        "date": "2026-02-21",
+        "type": "ROAD",
+        "location": "충북 청주 (무심천)",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "description": "전국마라톤협회 주최. 무심천 롤러스케이트장.",
+        "url": "http://www.run1080.com",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "kumf-geumgang-ultra-2026",
+        "name": "2026 금강울트라마라톤",
+        "date": "2026-03-28",
+        "type": "ROAD",
+        "location": "세종 (금강보행교)",
+        "distances": [
+            "100k",
+            "50k",
+            "Relay"
+        ],
+        "description": "KUMF 감독. 금강을 달리는 울트라 마라톤.",
+        "url": "http://kumf.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "kumf-jeju-ultra-road-2026",
+        "name": "제25회 제주 국제울트라마라톤 (Road)",
+        "date": "2026-04-04",
+        "type": "ROAD",
+        "location": "제주 (탑동공원)",
+        "distances": [
+            "200k",
+            "100k",
+            "50k"
+        ],
+        "description": "KUMF 주최. 한라산과 해안도로를 달리는 울트라 레이스.",
+        "url": "http://kumf.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "kumf-jeju-ultra-trail-2026",
+        "name": "제25회 제주 국제울트라마라톤 (Trail)",
+        "date": "2026-04-04",
+        "type": "TRAIL",
+        "location": "제주 (한라산)",
+        "distances": [
+            "80k",
+            "60k"
+        ],
+        "description": "KUMF 주최. 한라산 둘레길 트레일런.",
+        "url": "http://kumf.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "kumf-gwangju-ultra-2026",
+        "name": "제23회 빛고을 울트라마라톤",
+        "date": "2026-06-13",
+        "type": "ROAD",
+        "location": "광주",
+        "distances": [
+            "100k",
+            "50k"
+        ],
+        "description": "KUMF 감독. 빛고을 울트라 조직위.",
+        "url": "http://kumf.kr",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeju-mbc-marathon-2026",
+        "name": "제25회 제주MBC 국제평화마라톤",
+        "date": "2026-02-22",
+        "type": "ROAD",
+        "location": "제주 (한림종합운동장)",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "url": "http://marathon.jejumbc.com",
+        "description": "제주의 아름다운 서부 해안도로를 달리는 전통의 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "insider-run-w-2026",
+        "name": "2026 인사이더런 W",
+        "date": "2026-02-01",
+        "type": "ROAD",
+        "location": "경기",
+        "distances": [
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "never-stop-1000k-2026",
+        "name": "2026 네버스탑 1000K 팀 마라톤",
+        "date": "2026-02-02",
+        "type": "ROAD",
+        "location": "전국",
+        "distances": [
+            "1000k Team"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "sandeul-sori-2026",
+        "name": "제3회 산들소리향기마라톤",
+        "date": "2026-02-08",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeonmahyup-star-wars-2026",
+        "name": "2026 전마협 별들의 전쟁",
+        "date": "2026-02-08",
+        "type": "ROAD",
+        "location": "충남",
+        "distances": [
+            "20k"
+        ],
+        "url": "http://www.run1080.com",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "pyeongchang-naked-2026",
+        "name": "2026 평창 대관령 알몸 마라톤",
+        "date": "2026-02-14",
+        "type": "ROAD",
+        "location": "강원 평창",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "description": "한겨울 대관령의 추위를 이기는 이색 마라톤.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "suncheon-yutnori-2026",
+        "name": "2026 순천만국가정원 윷놀이런",
+        "date": "2026-02-18",
+        "type": "ROAD",
+        "location": "전남 순천",
+        "distances": [
+            "10k",
+            "3k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "youth-relay-2026",
+        "name": "2026 청춘릴레이 마라톤",
+        "date": "2026-02-21",
+        "type": "ROAD",
+        "location": "서울 (상암)",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "hope-dream-winter-2026",
+        "name": "제23회 희망드림 동계 국제 마라톤",
+        "date": "2026-02-21",
+        "type": "ROAD",
+        "location": "서울 (여의도)",
+        "distances": [
+            "32k",
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "challenge-race-2026",
+        "name": "2026 챌린지 레이스",
+        "date": "2026-02-22",
+        "type": "ROAD",
+        "location": "서울 (여의도)",
+        "distances": [
+            "Full",
+            "32k",
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "ahn-jung-geun-2026",
+        "name": "제13회 안중근 평화 마라톤",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "chuncheon-31-run-2026",
+        "name": "2026 3.1절 기념 건강달리기",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "강원 춘천",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "korea-open-race-2026",
+        "name": "제4회 코리아오픈 레이스",
+        "date": "2026-03-07",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-gyeonggi-half-2026",
+        "name": "제2회 서울경기육상연합 하프 마라톤",
+        "date": "2026-03-07",
+        "type": "ROAD",
+        "location": "경기",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "mbn-geoje-2026",
+        "name": "2026 MBN 블루레이스 거제",
+        "date": "2026-03-08",
+        "type": "ROAD",
+        "location": "경남 거제",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "chuncheon-soyanggang-2026",
+        "name": "제1회 춘천 소양강마라톤",
+        "date": "2026-03-21",
+        "type": "ROAD",
+        "location": "강원 춘천",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "naepo-marathon-2026",
+        "name": "2026 내포마라톤",
+        "date": "2026-03-21",
+        "type": "ROAD",
+        "location": "충남",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "bucket-run-2026",
+        "name": "2026 제6회 버킷런",
+        "date": "2026-03-21",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "just-run-cheongju-2026",
+        "name": "2026 JUST RUN10 청주",
+        "date": "2026-03-21",
+        "type": "ROAD",
+        "location": "충북 청주",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "invincible-marathon-2026",
+        "name": "제3회 불패 마라톤",
+        "date": "2026-03-22",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jeongeup-donghak-2026",
+        "name": "2026 정읍동학마라톤",
+        "date": "2026-03-22",
+        "type": "ROAD",
+        "location": "전북 정읍",
+        "distances": [
+            "Full",
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "yeongam-wangin-2026",
+        "name": "2026 영암왕인문화축제 벚꽃마라톤",
+        "date": "2026-03-28",
+        "type": "ROAD",
+        "location": "전남 영암",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "spring-breeze-u-learning-2026",
+        "name": "2026 봄바람 유러닝페스타",
+        "date": "2026-03-28",
+        "type": "ROAD",
+        "location": "경기",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "jangheung-marathon-2026",
+        "name": "제20회 정남진장흥 전국마라톤",
+        "date": "2026-03-29",
+        "type": "ROAD",
+        "location": "전남 장흥",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gimpo-hanriver-2026",
+        "name": "제14회 김포한강마라톤",
+        "date": "2026-03-29",
+        "type": "ROAD",
+        "location": "경기 김포",
+        "distances": [
+            "Full",
+            "10k",
+            "5k"
+        ],
+        "url": "http://gimporun.com",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "the-race-seoul-2026",
+        "name": "2026 더 레이스 서울 21K",
+        "date": "2026-04-05",
+        "type": "ROAD",
+        "location": "서울",
+        "distances": [
+            "Half",
+            "10k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "kiss-trail-daegu-2026",
+        "name": "2026 키스트레일 대구 (예정)",
+        "date": "2026-12-05",
+        "type": "TRAIL",
+        "location": "대구",
+        "distances": [
+            "Unknown"
+        ],
+        "description": "트레일러너들 예상 일정 (변동 가능).",
+        "status": "UPCOMING"
+    }
+]
