@@ -1103,5 +1103,60 @@
         ],
         "description": "트레일러너들 예상 일정 (변동 가능).",
         "status": "UPCOMING"
+    },
+    {
+        "id": "gumi-park-chung-hee-2026",
+        "name": "2026 구미 박정희 마라톤",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "경북 구미 (낙동강체육공원)",
+        "distances": [
+            "Full",
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "url": "http://gumimarathon.com",
+        "description": "선착순 15,000명 성황리 모집. 구미시 주최 3.1절 기념 대회.",
+        "status": "UPCOMING"
+    },
+    {
+        "id": "seoul-samiljeol-run-2026",
+        "name": "2026 머니투데이방송 3.1절 마라톤",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "서울 (뚝섬유원지)",
+        "distances": [
+            "Full",
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "hoengseong-31-run-2026",
+        "name": "제27회 횡성군민 건강달리기",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "강원 횡성",
+        "distances": [
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
+    },
+    {
+        "id": "gwangju-31-marathon-2026",
+        "name": "제61회 광주일보 3.1절 전국마라톤",
+        "date": "2026-03-01",
+        "type": "ROAD",
+        "location": "광주 (월드컵경기장)",
+        "distances": [
+            "Half",
+            "10k",
+            "5k"
+        ],
+        "status": "UPCOMING"
     }
 ]
